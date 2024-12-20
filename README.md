@@ -1,5 +1,8 @@
-# CODTECH-Task1
-
+Nmae:AMAL K B
+Company:CODTECH IT SOLUTIONS
+ID:CT0806FQ
+Domain:Data Analysis
+Duration:December to January 2024
 # Exploratory Data Analysis (EDA) on Student Performance
 
 This repository contains a Jupyter Notebook performing Exploratory Data Analysis (EDA) on a dataset related to student performance. The goal of the analysis is to uncover insights and patterns in the data that could inform decision-making or further research.
@@ -92,10 +95,6 @@ Key insights from the analysis include:
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 

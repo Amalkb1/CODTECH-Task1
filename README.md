@@ -1,4 +1,4 @@
-Name:AMAL K B:
+Name:AMAL K B.
 Company:CODTECH IT SOLUTIONS:
 ID:CT0806FQ:
 Domain:Data Analysis:

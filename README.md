@@ -1,8 +1,16 @@
-Name:AMAL K B.
-Company:CODTECH IT SOLUTIONS:
-ID:CT0806FQ:
-Domain:Data Analysis:
-Duration:December to January 2024:
+Author Information
+
+Name: AMAL K B
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT0806FQ
+
+Domain: Data Analysis
+
+Duration: December to January 2024
+
+
 # Exploratory Data Analysis (EDA) on Student Performance
 
 This repository contains a Jupyter Notebook performing Exploratory Data Analysis (EDA) on a dataset related to student performance. The goal of the analysis is to uncover insights and patterns in the data that could inform decision-making or further research.
